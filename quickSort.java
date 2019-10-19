@@ -1,7 +1,7 @@
 package quicksort;
 
 public class quickSort {
-	int array[]= {10,16,8,12,15,6,3,9,5,199};
+	int array[]= {10,16,8,12,15,6,3,9,5,199}; // use your own custom array or take input from user
 	public void quickSortAlogo(int low,int high)
 	{
 		if(low<high) {
